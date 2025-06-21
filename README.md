@@ -27,3 +27,6 @@ A Python script was developed with two main features:
 1.Save Hashes – Generate and store hash values of files.
 2.Check Integrity – Compare current file hashes with saved values to detect changes, deletions, or tampering.
 This tool is useful for students learning about cybersecurity basics, file handling, or system monitoring.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/63ccc899-3cf7-417f-840a-4f71293695e5)
